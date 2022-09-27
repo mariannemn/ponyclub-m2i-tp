@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img width="500" style="background:white" alt="GitHub Logotype" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png">
 
 
