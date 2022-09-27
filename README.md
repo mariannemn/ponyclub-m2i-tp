@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img width="500" style="background:white" alt="GitHub Logotype" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png">
 
 
@@ -188,3 +189,6 @@ Tutoriel de démarrage
 https://guides.github.com/activities/hello-world/ 
 
 
+=======
+# ponyclub-m2i-tp
+>>>>>>> 930adf9cba6da44b85ca55b8ff8aa6960c83be3f
